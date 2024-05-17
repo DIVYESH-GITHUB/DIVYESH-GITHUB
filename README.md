@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm DIVYESH PINDARIYA<br><br>🔭 A passionate Backend and mobile app developer from India.<br><br>🌱 I’m currently learning React Native, Node JS, and Flutter.<br><br>💬 Ask me about Backend and mobile app development.<br><br>📫 How to reach me divyeshpindaria09@gmail.com<br><br>⚡ Fun fact I think I am funny 😎
+<b> Hi 👋, I'm DIVYESH PINDARIYA<br><br>🔭 A passionate Backend and mobile app developer from India.<br><br>🌱 I’m currently learning React Native, Node JS, and Flutter.<br><br>💬 Ask me about Backend and mobile app development.<br><br>📫 How to reach me divyeshpindaria09@gmail.com<br><br>⚡ Fun fact I think I am funny 😎 </b>
 
 
 ## 🌐 Socials:
